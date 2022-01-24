@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-green{
+    @apply mx-auto w-72 py-2.5 text-white font-bold text-lg bg-principal-green rounded-md;
+}
