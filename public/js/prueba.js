@@ -6,8 +6,9 @@ change = () => {
     document.querySelector("html").classList.add("dark")
 }
 
+// change();
 
-btn.addEventListener('click', change);
+// btn.addEventListener('click', change);
 
 
 
