@@ -650,6 +650,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(172 217 178 / var(--tw-text-opacity));
 }
 
+.text-teal-600 {
+  --tw-text-opacity: 1;
+  color: rgb(13 148 136 / var(--tw-text-opacity));
+}
+
 .btn-green {
   margin-left: auto;
   margin-right: auto;
